@@ -1,0 +1,1 @@
+export(file="test.svg") color("red") projection(cut=true) translate([0,0,-5]) color("red") cube([10,10,10]);
